@@ -1,9 +1,10 @@
 # yolo-comparison
 
-# notebooks
-[YOLOv8 Starter Guide](https://github.com/wiserli/notebooks/blob/main/notebooks/YOLOV8starterGuide.ipynb) | <a target="_blank" href="">
+# colab notebook
+<a target="_blank" href="https://colab.research.google.com/drive/1LQvzEBr7Xl2NEnh2yjssUOOPsIZA_nUU">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
 
 ```bash
 git clone https://github.com/wiserli/yolo-comparison.git
